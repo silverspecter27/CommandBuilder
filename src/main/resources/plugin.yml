@@ -1,0 +1,4 @@
+name: Commandbuilder
+version: '${project.version}'
+main: com.github.silverspecter27.commandbuilder.Main
+api-version: 1.18
