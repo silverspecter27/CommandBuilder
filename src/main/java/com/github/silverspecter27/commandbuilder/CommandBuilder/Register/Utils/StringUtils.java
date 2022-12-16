@@ -13,11 +13,9 @@ public final class StringUtils {
      * @return true if the string is true
      */
     public static boolean getParseBoolean(String s) {
-        boolean b = false;
         if (!(s.equals("true") || s.equals("false")))
             throw new IllegalArgumentException();
-        b = s.equals("true");
-        return b;
+        return s.equals("true");
     }
 
     /**
@@ -29,11 +27,9 @@ public final class StringUtils {
      * @return true if the string is true
      */
     public static boolean getParseBooleanEqualsIgnoreCase(String s) {
-        boolean b = false;
         if (!(s.equalsIgnoreCase("true") || s.equalsIgnoreCase("false")))
             throw new IllegalArgumentException();
-        b = s.equals("true");
-        return b;
+        return s.equals("true");
     }
 
     /**
