@@ -1,4 +1,4 @@
-package com.github.silverspecter27.commandbuilder.Register;
+package com.github.silverspecter27.commandbuilder.CommandBuilder.Register;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

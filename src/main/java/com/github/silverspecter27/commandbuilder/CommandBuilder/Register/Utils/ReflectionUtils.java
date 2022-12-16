@@ -1,4 +1,4 @@
-package com.github.silverspecter27.commandbuilder.Utils;
+package com.github.silverspecter27.commandbuilder.CommandBuilder.Register.Utils;
 
 import org.jetbrains.annotations.NotNull;
 

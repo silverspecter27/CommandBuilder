@@ -1,10 +1,9 @@
-package com.github.silverspecter27.commandbuilder.Register;
+package com.github.silverspecter27.commandbuilder.CommandBuilder.Register;
 
-import com.github.silverspecter27.commandbuilder.CommandBase;
-import com.github.silverspecter27.commandbuilder.Utils.CommandUtils;
-import com.github.silverspecter27.commandbuilder.Utils.Message.MessageBuilder;
-import com.github.silverspecter27.commandbuilder.Utils.Message.Msg;
-import com.github.silverspecter27.commandbuilder.Utils.StringUtils;
+import com.github.silverspecter27.commandbuilder.CommandBuilder.Register.Utils.CommandUtils;
+import com.github.silverspecter27.commandbuilder.CommandBuilder.Register.Utils.Message.MessageBuilder;
+import com.github.silverspecter27.commandbuilder.CommandBuilder.Register.Utils.Message.Msg;
+import com.github.silverspecter27.commandbuilder.CommandBuilder.Register.Utils.StringUtils;
 import org.bukkit.Bukkit;
 import org.bukkit.command.*;
 import org.bukkit.entity.Player;

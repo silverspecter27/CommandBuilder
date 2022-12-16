@@ -1,4 +1,4 @@
-package com.github.silverspecter27.commandbuilder;
+package com.github.silverspecter27.commandbuilder.CommandBuilder.Register;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;

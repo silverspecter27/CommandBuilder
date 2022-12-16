@@ -1,4 +1,4 @@
-package com.github.silverspecter27.commandbuilder.Utils.Message;
+package com.github.silverspecter27.commandbuilder.CommandBuilder.Register.Utils.Message;
 
 import net.kyori.adventure.text.Component;
 import org.bukkit.Bukkit;
