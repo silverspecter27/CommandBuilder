@@ -1,5 +1,6 @@
-package com.github.silverspecter27.commandbuilder.CommandBuilder.Register;
+package com.github.silverspecter27.commandbuilder.CommandBuilder.Register.Register;
 
+import com.github.silverspecter27.commandbuilder.CommandBuilder.Register.CommandBase;
 import com.github.silverspecter27.commandbuilder.CommandBuilder.Register.Utils.CommandUtils;
 import com.github.silverspecter27.commandbuilder.CommandBuilder.Register.Utils.Message.MessageBuilder;
 import com.github.silverspecter27.commandbuilder.CommandBuilder.Register.Utils.Message.Msg;
